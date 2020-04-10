@@ -1,6 +1,6 @@
 Amber Fashion Jewelry
 
-link to the live demo preview https://dyunkerka.github.io/amberfashion/
+link to the live demo preview https://vortex6688.github.io/fashion-demo/
 
 Some rxample layouts for considerations:
 - https://mejuri.com
